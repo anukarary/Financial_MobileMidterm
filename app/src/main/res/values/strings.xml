@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Санхүү</string>
+    <string name="app_update">Гүйлгээ</string>
+    <string name="app_settings">Тохиргоо</string>
+    <string name="back_button">Буцах</string>
+    <string name="reminder_notification_title">Санхүүгийн сануулга</string>
+    <string name="reminder_notification_text">Өдөр тутмын гүйлгээгээ бүртгэхээ мартаагүй биз?</string>
+    <string name="reminder_channel_name">Өдөр тутмын сануулга</string>
+    <string name="reminder_channel_description">Өдөр тутмын санхүүгийн бүртгэлийн сануулга</string>
+</resources>
